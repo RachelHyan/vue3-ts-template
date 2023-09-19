@@ -1,0 +1,1 @@
+import{d as e,_ as r,o,c as n}from"./index-421953f1.js";const t=e({name:"ServerError",setup(){return{}}});function s(c,a,p,_,d,f){return o(),n("div",null,"ServerError")}const i=r(t,[["render",s]]);export{i as default};

@@ -1,0 +1,26 @@
+# 网站：http://editorconfig.org
+
+# 设为当前目录为根路径
+root = true
+
+# 表示这些规则适用于所有文件
+[*]
+# 设置文件编码
+charset = utf-8
+# 缩进风格，tab或space
+indent_style = tab
+# 缩进大小
+indent_size = 2
+# 换行符，lf或crlf
+end_of_line = lf
+# 删除行末尾的任何空白字符
+trim_trailing_whitespace = true
+# 在文件末尾插入一个空行
+insert_final_newline = true
+
+# 表示这些规则适用于所有扩展名为md的文件
+[*.md]
+# 表示对 md 文件的行长度不做限制
+max_line_length = off
+# 表示对 md 文件的行尾不做空格删除
+trim_trailing_whitespace = false

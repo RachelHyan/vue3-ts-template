@@ -1,0 +1,1 @@
+import{d as e,_ as o,o as n,c as t}from"./index-421953f1.js";const r=e({name:"NotFound",setup(){return{}}});function s(c,a,p,_,d,u){return n(),t("div",null,"NotFound")}const i=o(r,[["render",s]]);export{i as default};

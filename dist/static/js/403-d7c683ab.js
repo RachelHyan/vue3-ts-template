@@ -1,0 +1,1 @@
+import{d as e,_ as o,o as s,c as n}from"./index-421953f1.js";const t=e({name:"NoPermissions",setup(){return{}}});function r(c,a,i,p,_,m){return s(),n("div",null,"NoPermissions")}const f=o(t,[["render",r]]);export{f as default};
